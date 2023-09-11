@@ -48,7 +48,7 @@ Describe the datasets you are using to answer your research questions.
 - Data source : An open-source where vast number of scripts available. https://imsdb.com/Movie%20Scripts/Twilight%20Script.html. Apart from this, I will  use other open-sources like imbd, rotten tomato, google review.. 
 
 - Data shape (995 rows × 2 columns)
--
+  
 - **What does each row / represent?(a patient, a school, a crime, etc.)**   (In Progress)
   - speaker,dialogs 
   
