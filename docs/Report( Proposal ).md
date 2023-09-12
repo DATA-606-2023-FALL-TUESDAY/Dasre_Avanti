@@ -8,7 +8,7 @@
 - Author Name :  Avanti Dasre
 - Link to GitHub profile : https://github.com/ad-04
 - Link to Linkedin : https://www.linkedin.com/in/avanti-dasre-7a3a8b152/
-- Link to your PowerPoint presentation file : https://1drv.ms/p/s!AlbITO6Fex1YcBVS3BYXCHsEg3I
+- Link to your PowerPoint presentation file : In progress
 - Link to your YouTube video : In Progress
 
 
