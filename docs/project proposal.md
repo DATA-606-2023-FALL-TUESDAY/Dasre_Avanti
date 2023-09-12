@@ -5,7 +5,7 @@ This project proposal is prepared for UMBC Data Science Master Degree Capstone b
 - Author Name: Avanti Dasre
 - Link to the author's GitHub profile: https://github.com/ad-04
 - Link to the author's LinkedIn profile: https://www.linkedin.com/in/avanti-dasre-7a3a8b152/
-- Link to your PowerPoint presentation file : In Progress
+- Link to your PowerPoint presentation file : [In Progress](https://1drv.ms/p/s!AlbITO6Fex1YcBVS3BYXCHsEg3I)
 - Link to your YouTube video : In Progress
 
 ## Problem Statement & Background:
