@@ -13,10 +13,11 @@ The primary objective of this project is to develop a classification model capab
 The problem of Automated Skills Extraction plays a pivotal role in automated resume matching and candidate shortlisting in Application tracking systems and in the job recommendation system. In addition to efficient job-candidates matching, this project has other practical applications in data collection for Labour Market & Skill Gap Analysis. 
 
 By end of this project, I hope to explore & find answers to following research questions:
-●	What type of data cleaning & preprocessing techniques are effective for parsing and extracting skills from unstructured text data?
-●	How accurately can machine learning models predict skills required for diverse job descriptions?
-●	How do traditional machine learning techniques such as naive bayes and decision trees compare to deep learning architectures such as Transformers for skills extraction.
-●	Can the automated skills extraction process be fine-tuned for specific industries or job sectors to improve accuracy?
+
+- What type of data cleaning & preprocessing techniques are effective for parsing and extracting skills from unstructured text data?
+-	How accurately can machine learning models predict skills required for diverse job descriptions?
+- How do traditional machine learning techniques such as naive bayes and decision trees compare to deep learning architectures such as Transformers for skills extraction.
+- Can the automated skills extraction process be fine-tuned for specific industries or job sectors to improve accuracy?
 
 ## Dataset
 
