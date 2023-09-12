@@ -26,41 +26,43 @@ Data Sources: I primarily plan to use the dataset collected from a Singaporean j
 Dataset link: https://github.com/WING-NUS/JD2Skills-BERT-XMLC/tree/main/data
 
 Dataset Stats: 
-●	Number of job posts - 20,298
-●	Number of distinct skills - 2,548
-●	Number of skills with 20 or more mentions - 1,209
-●	Average skill tags per job post - 19.98
+- Number of job posts - 20,298
+- Number of distinct skills - 2,548
+- Number of skills with 20 or more mentions - 1,209
+- Average skill tags per job post - 19.98
 
 This dataset includes the following metadata fields on which can be do Exploratory Data Analysis
 
-●	company_name
-●	job_title
-●	employment_type
-●	seniority
-●	job_category
-●	location
-●	salary
-●	min_experience
-●	skills_required
-●	requirements_and_role
-●	job_requirements
-●	company_info
-●	posting_date
-●	expiry_date
-●	no_of_applications
+-	company_name
+-	job_title
+-	employment_type
+-	seniority
+-	job_category
+- location
+-	salary
+-	min_experience
+-	skills_required
+-	requirements_and_role
+-	job_requirements
+-	company_info
+-	posting_date
+-	expiry_date
+-	no_of_applications
 
 ## Phase 2: Exploratory Data Analysis
-●	Analyze distribution of different target classes (skills in this case).
-●	Use metadata available to analyze the data & create visualizations 
-●	Text analysis such as most frequent words with help of word cloud.
-●	Analyze Bi-grams/Tr-igrams extracted from the job description.
+
+-	Analyze distribution of different target classes (skills in this case).
+-	Use metadata available to analyze the data & create visualizations 
+-	Text analysis such as most frequent words with help of word cloud.
+-	Analyze Bi-grams/Tr-igrams extracted from the job description.
 
 ## Phase 3: Data preparation & Model Building
-●	Data splitting: There will be imbalance due to the real world nature of some skills being more prevalent than others. Hence stratified sampling must be used to split the dataset into training and validation datasets.
-●	Tokenize & Clean text data: Use Nltk & regular expression to preprocess/clean the text data.
-●	Text Feature Extraction: Use simple techniques such as bag of words, tf-idf & word vectors.
-●	Start with simple ML models using Naive Bayes, Logistic Regression & Random forests.
-●	Experiment with deep learning architectures based on GRU, LSTMs and word vectors.
-●	Use pretrained models such as BERT, GPT & finetune the classification layer for the accurate predictions.
-Using the trained model in a Web Application:
-●	Use gradio to build a simple web application where users can provide input text and get predictions for the skills found.
+
+-	Data splitting: There will be imbalance due to the real world nature of some skills being more prevalent than others. Hence stratified sampling must be used to split the dataset into training and validation datasets.
+-	Tokenize & Clean text data: Use Nltk & regular expression to preprocess/clean the text data.
+-	Text Feature Extraction: Use simple techniques such as bag of words, tf-idf & word vectors.
+-	Start with simple ML models using Naive Bayes, Logistic Regression & Random forests.
+-	Experiment with deep learning architectures based on GRU, LSTMs and word vectors.
+-	Use pretrained models such as BERT, GPT & finetune the classification layer for the accurate predictions.
+- sing the trained model in a Web Application:
+-	Use gradio to build a simple web application where users can provide input text and get predictions for the skills found.-
