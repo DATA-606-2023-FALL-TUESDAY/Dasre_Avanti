@@ -49,4 +49,20 @@ This dataset includes the following metadata fields on which can be do Explorato
 -	expiry_date
 -	no_of_applications
 
+## Phase 2: Exploratory Data Analysis
+●	Analyze distribution of different target classes (skills in this case).
+●	Use metadata available to analyze the data & create visualizations 
+●	Text analysis such as most frequent words with help of word cloud.
+●	Analyze Bi-grams/Tr-igrams extracted from the job description.
+
+## Phase 3: Data preparation & Model Building
+●	Data splitting.
+●	Tokenize & Clean text data.
+●	Text Feature Extraction.
+●	Start with simple ML models using Naive Bayes, Logistic Regression & Random forests.
+●	Experiment with deep learning architectures based on GRU, LSTMs and word vectors.
+●	Use pretrained models such as BERT, GPT & finetune the classification layer for the accurate predictions.
+
+ 
+
 
