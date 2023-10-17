@@ -35,15 +35,14 @@ Dataset Stats:
 -	Number of test image samples - 20,000
 -	Data size: Around 120 MB
 
-
-Phase 2: Exploratory Data Analysis
+## Exploratory Data Analysis
 -	Analyze/Plot distribution of the target classes in train and test datasets.
 -	Use python based visualization frameworks like numpy, opencv to load & preprocess the images.
 -	Use matplotlib to load and view the images samples for both real & fake classes. 
 -	Augment the input data using techniques such as random resizing, cropping, or rotating.
 
 
-Phase 3: Data preparation & Model Building
+## Data preparation & Model Building
 -	Data splitting: Use random splitting strategy (unless there is an imbalance in class distribution) to split the training dataset into training and validation datasets.
 -	Preprocess data: Load images as arrays, standardize the image arrays & resize the images.
 -	Image Augmentation: Apply various image augmentation methods like random cropping, resizing, and rotating.
