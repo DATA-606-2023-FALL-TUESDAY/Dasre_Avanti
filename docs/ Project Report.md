@@ -8,7 +8,7 @@ This project proposal is prepared for UMBC Data Science Master Degree Capstone b
 - Link to your PowerPoint presentation file : https://d.docs.live.net/581d7b85ee4cc856/Documents/cap%20ppt.pptx
 - Link to your YouTube video : In Progress
   
-  ## Introduction
+  ### Introduction
   
 In today's digital age, the proliferation of manipulated or fake images has become a pressing concern, influencing public perception, misinforming individuals, and eroding trust in visual media. This project addresses the urgent need for effective fake image detection, leveraging advancements in computer vision, artificial intelligence, and deep learning. As images increasingly shape our understanding of the world, the ability to distinguish authentic content from manipulated ones is paramount. The project aims to develop and evaluate sophisticated algorithms capable of identifying forged images, be it through digital alterations, deep fakes, or other techniques. The implications of this research extend to various fields, from journalism and forensics to social media and cybersecurity, where discerning truth from deception is vital. By exploring the methods, challenges, and societal impact of fake image detection, this report offers a comprehensive understanding of this critical area of study and underscores the importance of technological solutions in the battle against visual misinformation.
 
