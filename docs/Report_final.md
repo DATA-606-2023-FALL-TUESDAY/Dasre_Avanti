@@ -102,11 +102,11 @@ Suitable for tasks where a simple model is sufficient, and computational resourc
 
 * Accuracy & Loss Predictions
 
-![Alt text]("C:\Users\Dell\Downloads\model1 accuracy-1.png") ![Alt text]("C:\Users\Dell\Downloads\model1 loss-1.png")
+![Alt text][def] ![Alt text][def2] 
 
 * Roc Prediction
 
-![Alt text](<roc model 1-1.png>) 
+![Alt text][def3] 
 
 ## Model 2 Architecture:
 More complex architecture with multiple Conv2D layers and additional layers.
@@ -212,3 +212,7 @@ References:
 3. A. Kawabe, R. Haga, Y. Tomioka, Y. Okuyama and J. Shin, "Fake Image Detection Using An Ensemble of CNN Models Specialized For Individual Face Parts," 2022 IEEE 15th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC), Penang, Malaysia, 2022, pp. 72-77, doi: 10.1109/MCSoC57363.2022.00021.
 
 4. Indolia, S., Goswami, A. K., Mishra, S., & Asopa, P. (2018). Conceptual understanding of Convolutional Neural Network- a deep learning approach. Procedia Computer Science, 132, 679–688. https://doi.org/10.1016/j.procs.2018.05.069
+
+[def]: <model1 accuracy-1.png>
+[def2]: <model1 loss-1.png>
+[def3]: <roc model 1-1.png>
