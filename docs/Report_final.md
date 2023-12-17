@@ -203,7 +203,7 @@ Taking into account the dynamic nature of image modification techniques, develop
 Prioritize the creation of systems for detecting phony images in real time that can function well in dynamic internet settings like social media.
 
 
-References:
+### References:
 
 1.	Bird, J.J., Lotfi, A. (2023). CIFAKE: Image Classification and Explainable Identification of AI-Generated Synthetic Images. arXiv preprint arXiv:2303.14126.
 
