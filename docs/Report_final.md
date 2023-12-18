@@ -6,7 +6,7 @@ This project proposal is prepared for UMBC Data Science Master Degree Capstone b
 - Link to the author's GitHub profile: https://github.com/ad-04
 - Link to the author's LinkedIn profile: https://www.linkedin.com/in/avanti-dasre-7a3a8b152/
 - Link to your PowerPoint presentation file :https://1drv.ms/p/s!AlbITO6Fex1YgQhu6Jb6UV7Fg7qx
-- Link to your YouTube video 
+- Link to your YouTube video : https://youtu.be/ndh-vz31rW8
   
 ### 2. Introduction
   
